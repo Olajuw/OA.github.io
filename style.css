@@ -1,0 +1,60 @@
+\\/*selector {  
+    property::value
+}*/
+
+title{
+    text-align: center;
+}
+body{
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+p{
+    font-style: italic;
+    font-weight:bold;
+    font-size: 1em;
+    font-family: 'Phudu',cursive;
+    line-height: 20px;
+  }
+h1{
+    color:#bbcf55;
+    text-align:left;
+    border-bottom:solid 1px rgb(49, 2, 2) ;
+    box-shadow: 20px 3px 4px #445200; 
+    display: inline-block;
+    margin: 3px,4px,3px,4px;
+    font-family: 'Roboto', sans-serif;
+ }
+p{
+    color: rgb(4, 70, 39); 
+}
+img{
+    width: 360px;
+    height: 450px;
+    float: right;
+}
+a{
+    color: rgb(68, 21, 4);
+    font-size: 3em;
+    font-style: italic;
+}
+li{
+    color:rgb(53, 77, 5) ;
+}
+li,ul{
+    font-style: italic;
+    font-weight:bold;
+    font-size: 90%;
+    font-family: 'Sedgwick Ave Display', cursive;
+    line-height: 20px;  
+} 
+nav{
+    font-style: italic;
+    font-weight:bold;
+    font-size: 70%;
+    font-family: 'Sedgwick Ave Display', cursive;
+    line-height: 20px;
+    text-align: right;  
+    color: rgb(9, 9, 163);
+    background-color: rgb(9, 122, 122);
+}
